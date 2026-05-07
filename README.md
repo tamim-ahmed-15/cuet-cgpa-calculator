@@ -1,4 +1,4 @@
-<h1 align="center">CUET CGPA Calculator</h1>
+<h1 align="center">CUET CGPA Calculator Extension</h1>
 
 <p align="center">
 	<strong>A Chrome/Chromium extension that automatically calculates your GPA and CGPA from the CUET result page.</strong>
