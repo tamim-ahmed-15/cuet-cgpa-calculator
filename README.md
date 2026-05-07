@@ -93,7 +93,6 @@ cuet-cgpa-calculator/
 ├── content.js          # Main logic: reads results, computes GPA/CGPA, renders the panel
 ├── content.css         # Styles for the floating button and calculator UI
 ├── popup.html          # Extension popup with usage instructions
-├── README.md
 └── icons/
 		├── icon48.png      # Toolbar icon
 		├── icon128.png     # Larger extension icon
